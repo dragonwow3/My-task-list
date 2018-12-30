@@ -1,0 +1,14 @@
+.delete-task{
+  color: black;
+  position: relative;
+  float: right;
+}
+.delete-task:hover{
+  color: red;
+}
+.itemList{
+  list-style-type: none;
+}
+form{
+  padding-left: 300px;
+}
